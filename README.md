@@ -1,0 +1,1 @@
+My AutoHotKey script for easily loading VSTs into the [SAVIhost](https://www.hermannseib.com/english/savihost.htm) program (a lite program used to load single VSTs without having to startup a whole DAW).
